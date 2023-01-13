@@ -1,0 +1,4 @@
+its a sales website
+customers create accounts, they are saved using email address as the primary key
+admin side
+search
